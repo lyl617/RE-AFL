@@ -1,0 +1,1 @@
+python3 send_file.py --local_path 'client.py' --remote_path '/data/jcliu/FL/RE-AFL/'
